@@ -26,8 +26,10 @@ namespace Library_Managment
         {
             Admin admin = new Admin();
             admin.Show();
-            Close();
+            this.Close();
 
         }
+
+        
     }
 }
